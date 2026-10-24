@@ -1,7 +1,7 @@
 # Spotify Tracks · Predicción de popularidad de canciones
 
 **Asignatura:** MLY1101 – Machine Learning · **Evaluación Parcial N°2 (Caso C)**
-**Integrantes:** *(escribir los nombres del grupo)*
+**Integrantes:** *Bastian Rubio - Juan Fernandez - Cristobal Segovia.*
 
 Proyecto de Machine Learning que busca anticipar qué canciones serán populares en Spotify a partir de sus características de audio, su duración, si son explícitas y su género. Combina **dos modelos supervisados** (XGBoost y Random Forest) con **una técnica no supervisada** (K-Means) para segmentar el catálogo en perfiles musicales. Sigue la metodología CRISP-DM.
 
