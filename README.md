@@ -74,7 +74,7 @@ El modelo no reemplaza al equipo de promoción: entrega un **ranking de candidat
 
 ## 4. Descripción de las fuentes de datos
 
-**Fuente:** dataset público *Spotify Tracks Dataset* publicado en Kaggle (<https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset>), con atributos de audio obtenidos desde la API de Spotify. Archivo: `data/Spotify_Tracks_Dataset.csv`.
+**Fuente:** `data/Spotify_Tracks_Dataset.csv`.
 
 **Tamaño:** 114.000 filas × 21 columnas · 114 géneros con exactamente 1.000 canciones cada uno.
 
